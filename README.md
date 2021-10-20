@@ -6,4 +6,4 @@
   insta: @root_HitmanOM
   email: hitmanommeow@gmail.com
 
-  Abdullah.
+  Abdullah Al Bulushi.
