@@ -5,6 +5,6 @@
 - 🐍 Python Devloper 
 - 📫 How to reach me: 
   insta: @root_HitmanOM
-  email: hitmanommeow@gmail.com
+  email: shawrma@gtfcy37qyzor7kb6blz2buwuu5u7qjkycasjdf3yaslibkbyhsxub4yd.onion
 
   Abdullah Al Bulushi.
