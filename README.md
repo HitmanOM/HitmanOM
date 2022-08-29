@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HitmanOM
+- 👋 Hi, I’m Abdullah
 - 👀 I’m interested in Cybersecuirty
 - 🌱 I’m currently learning Penetration Testing
 - 💞️ I’m in love with Hacking
