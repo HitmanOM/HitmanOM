@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdullah
 - 👀 I’m interested in Cybersecuirty
 - 🌱 I’m currently learning Penetration Testing
-- 💞️ I’m currently learning Discord Bot Developing
+- 💞️ Certfied Ethical Hacker By EC-concil, Comptia Pentester+
 - 🐍 Python,js,bash,c#,c++,c,node.js Developer
 - 🖌️ Html,css,figma Designer 
 - 📫 How to reach me: 
